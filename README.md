@@ -17,7 +17,7 @@ Brazil has been faced outbreaks of arbovirus-related infections such as Chicungu
 ### Files
  * [AMIA Paper.pdf](https://github.com/geotimeaedes/files/raw/master/AMIA%20Paper.pdf): Manuscript
  * [JavaScripts](https://github.com/geotimeaedes/files/tree/master/map_js)
- * [Sample data](link comes here)
+ * [Sample data](https://github.com/geotimeaedes/files/tree/master/dados)
  
 #### This work was supported by [Núcleo de Telessaúde (NUTES-HC-UFPE)](http://www.nutes.ufpe.br/)
 
