@@ -3,10 +3,10 @@
 ### A georeferenced and time-indexed data visualization strategy to supportdecision-making to combat <i>Aedes aegypti</i> mosquitoes during Zika, Dengue  and Chikungunya Fever outbreaks:  An use case from the Northeast of Brazil
 
 ### Authors
- * [Matheus S. Monteiro](https://github.com/markdown-it/markdown-it) 
- * [Glória F. A. B. Lima](https://github.com/markdown-it/markdown-it) 
- * [Márcia C. T. Cavalcante](https://github.com/markdown-it/markdown-it) 
- * [Daianny P. Santos](https://github.com/markdown-it/markdown-it) 
+ * [Matheus S. Monteiro](http://lattes.cnpq.br/1046432757941463) 
+ * [Glória F. A. B. Lima](http://lattes.cnpq.br/0139705052634005) 
+ * [Márcia C. T. Cavalcante](http://lattes.cnpq.br/4736484424000987) 
+ * [Daianny P. Santos](http://lattes.cnpq.br/2478031225761613) 
  * [Magdala. A. Novaes](http://lattes.cnpq.br/1177858154250011) 
  * [Filipe Santana](http://lattes.cnpq.br/8268902147804566) 
 
